@@ -1,1 +1,1 @@
-rstudioapi::restartSession()
+devtools::session_info()
