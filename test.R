@@ -11,3 +11,5 @@ xy_mod <- lm(x ~ y)
 summary(xy_mod)
 
 plot(xy_mod)
+
+# merge conflict mode
