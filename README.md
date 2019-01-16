@@ -9,4 +9,4 @@ A particularly choice word: eucatastrophe
 
 foolin' 'round in my the-past branch
 
-now we're editing in a merge conflict again
+happy unification of merge conflicts
