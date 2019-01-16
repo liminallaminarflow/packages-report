@@ -9,4 +9,4 @@ A particularly choice word: eucatastrophe
 
 foolin' 'round in my the-past branch
 
-a b c d e f
+a b c d e f l e t t e r s letters[1:26]
