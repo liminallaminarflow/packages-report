@@ -13,3 +13,6 @@ summary(xy_mod)
 plot(xy_mod)
 
 # merge conflict mode
+
+
+# another test--what does my git log look like with this github-edited comment?
